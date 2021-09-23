@@ -1,4 +1,4 @@
-jadx/
+# jadx/
 *.pyc
 *.egg-info/
 build/
